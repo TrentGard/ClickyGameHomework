@@ -1,0 +1,12 @@
+.cards-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    width: 1200px;
+}
+
+.body-container {
+    margin-top: 5%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}

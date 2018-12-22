@@ -1,0 +1,4 @@
+.scoreKeeper {
+    display: flex;
+    flex-direction: row;
+}
